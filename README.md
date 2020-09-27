@@ -1,3 +1,9 @@
+## here you can check out the project
+# https://angry-sammet-46b95e.netlify.app/
+and you can even download this app in your device by clicking the (+) sign in right side of link box
+
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
