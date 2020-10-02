@@ -7,10 +7,12 @@ const App = () => {
   const [query, setQuery] = useState("");
   const [weather, setWeather] = useState({});
 
+  //please specify what to seach...
+
+  
   const search = async (e) => {
     if (e.key === "Enter") {
       const data = await fetchWeather(query);
-
       console.log(data);
       setWeather(data);
 
