@@ -20,6 +20,7 @@ const App = () => {
 
   return (
     <div className="main-container">
+    <p class="heading">Enter any country, state or district name</p>
       <input
         type="text"
         className="search"
